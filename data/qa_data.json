@@ -1,0 +1,354 @@
+[
+  {
+    "id": "03bcfd2d-7984-4e08-b08a-8f9d306cd6d1",
+    "question": "ÖRNEK SORU: MSKÜ de kaç tane lab vardır?",
+    "answer": "ÖRNEK CEVAP:Henüz sayılmadı, sayım yapıldıktan sonra güncellenecektir.",
+    "category": "GENEL BİLGİ",
+    "created_at": "2026-01-19T11:29:07.002126",
+    "updated_at": "2026-01-19T11:38:40.164360"
+  },
+  {
+    "id": "923fb8d7-47dc-41f6-be19-b6689196be3e",
+    "question": "ÖRNEK SORU:Her labda kaç bilgisayar var?",
+    "answer": "30 ADET",
+    "category": "LAB",
+    "created_at": "2026-01-19T11:38:21.794682",
+    "updated_at": null
+  },
+  {
+    "id": "2faf7a57-7490-4d2c-8d95-9e3625cd748f",
+    "question": "Üniversitenin verdiği Office 365 lisansını nasıl kullanabilirim?",
+    "answer": "Üniversitenin verdiği kurumsal e-posta adresiniz ile Office 365’e giriş yaparak Word, Excel, PowerPoint gibi uygulamaları ücretsiz kullanabilirsiniz.",
+    "category": "Genel Bilgilendirme / Yazılım",
+    "created_at": "2026-03-13T15:01:40.504206",
+    "updated_at": null
+  },
+  {
+    "id": "9b20ff25-e99c-42c7-b1e9-aff7ed3ae48b",
+    "question": "Üniversite öğrencileri Office lisansı almak zorunda mı?",
+    "answer": "Hayır. Üniversite öğrencilere Office 365 lisansı sağlar, kurumsal mail ile ücretsiz",
+    "category": "Genel Bilgilendirme",
+    "created_at": "2026-03-13T15:02:31.848658",
+    "updated_at": null
+  },
+  {
+    "id": "96bb007d-c762-4f60-87e1-03bd75119870",
+    "question": ": Üniversitenin verdiği Office 365 lisansı hangi programları kapsıyor?",
+    "answer": "Word, Excel, PowerPoint, Outlook ve diğer Office uygulamalarını kullanabilirsiniz.",
+    "category": "Genel Bilgilendirme / Yazılım",
+    "created_at": "2026-03-13T15:03:41.763477",
+    "updated_at": null
+  },
+  {
+    "id": "bfbaf3e3-1374-40c8-ac9f-1a6a0fe4c1c6",
+    "question": "Üniversite öğrencilerine OneDrive depolama alanı veriliyor mu?",
+    "answer": "Evet. Kurumsal hesap ile OneDrive üzerinde yaklaşık 100 GB depolama alanı kullanabilirsiniz.",
+    "category": "akademik",
+    "created_at": "2026-03-13T15:04:17.541480",
+    "updated_at": null
+  },
+  {
+    "id": "41e2c637-8256-43f1-aaab-eec287cba1fc",
+    "question": "Telefonumdan eduroam ağına bağlanamıyorum, ne yapmalıyım?",
+    "answer": "Eduroam bağlantı ayarlarını doğru yapılandırmanız gerekir veya geteduroam uygulamasını kullanabilirsiniz",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:05:10.318524",
+    "updated_at": null
+  },
+  {
+    "id": "6e209832-6081-49a8-981f-e3f8b38866b8",
+    "question": "Android telefonumda eduroam bağlanırken sertifika hatası alıyorum, nasıl çözebilirim?",
+    "answer": "Üniversitenin güvenlik sertifikasını yükleyerek veya geteduroam uygulamasını kullanarak bağlantı sağlayabilirsiniz.",
+    "category": "Genel Bilgilendirme / Yazılım",
+    "created_at": "2026-03-13T15:05:30.885825",
+    "updated_at": null
+  },
+  {
+    "id": "b6440aef-9de8-473e-9735-5ee25ffe7134",
+    "question": "Oppo veya Honor gibi bazı Android telefonlarda eduroam neden bağlanmıyor?",
+    "answer": "Bu cihazlarda bağlantı için geteduroam uygulamasının kullanılması önerilir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:06:03.098757",
+    "updated_at": null
+  },
+  {
+    "id": "9bd7a3a5-62d3-475b-859e-1682c8f06bc9",
+    "question": "geteduroam uygulaması nedir ve ne işe yarar?",
+    "answer": "Eduroam ağına otomatik ve doğru şekilde bağlanmanızı sağlayan resmi kurulum uygulamasıdır.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:06:28.140307",
+    "updated_at": null
+  },
+  {
+    "id": "12bacdaa-9910-4909-b1b4-1004223fbe2c",
+    "question": "Üniversite hesabımın şifresini sadece bilgi işlem mi değiştirebilir?",
+    "answer": "Hayır. Şifrenizi kimlik portalı üzerinden kendiniz değiştirebilirsiniz.",
+    "category": "akademik",
+    "created_at": "2026-03-13T15:07:10.359826",
+    "updated_at": null
+  },
+  {
+    "id": "bbfcffa5-ab4a-488d-b84b-1d80eb4e687c",
+    "question": "Üniversite hesabımın şifresini nereden değiştirebilirim?",
+    "answer": "kimlik.mu.edu.tr adresinden şifrenizi değiştirebilirsiniz.",
+    "category": "Akademik",
+    "created_at": "2026-03-13T15:07:33.692359",
+    "updated_at": null
+  },
+  {
+    "id": "2f6cd225-3e1d-4bea-b24d-06bde978a8f0",
+    "question": "Yabancı öğrenciler üniversite sistemlerinde şifrelerini nasıl değiştirebilir?",
+    "answer": "Yabancı kimlik numarası ile kimlik portalına giriş yaparak şifre değiştirilebilir.",
+    "category": "Akademik",
+    "created_at": "2026-03-13T15:08:25.414783",
+    "updated_at": null
+  },
+  {
+    "id": "0c12727e-f00a-450f-8aa8-013cb2d7dfbc",
+    "question": "Mac bilgisayarımda e-imza uygulaması çalışmıyor, ne yapmalıyım?",
+    "answer": "Mac güvenlik ayarları nedeniyle engellenmiş olabilir. Terminalde aşağıdaki komutu çalıştırabilirsiniz:\n\nsudo spctl --master-disable",
+    "category": "Genel Bilgilendirme",
+    "created_at": "2026-03-13T15:09:24.394800",
+    "updated_at": null
+  },
+  {
+    "id": "ec8b0b14-05c9-4930-9355-ba9308f85093",
+    "question": "Mac bilgisayarım e-imza uygulamasını açmama izin vermiyor, nasıl açabilirim?",
+    "answer": "Sistem ayarlarında güvenlik uyarısı çıkan uygulama için “Yine de aç” seçeneğini kullanabilirsiniz.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:09:50.220245",
+    "updated_at": null
+  },
+  {
+    "id": "46a1599f-301b-48d6-b443-43546ac65355",
+    "question": "Mac bilgisayarımda e-imza çalışmıyor, Java ile ilgili sorun olabilir mi?",
+    "answer": "Evet. Java sürümü eski olabilir. Java’yı kaldırıp güncel sürümü tekrar kurmanız gerekir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:10:25.786242",
+    "updated_at": "2026-03-13T15:10:42.816947"
+  },
+  {
+    "id": "f2ffac6f-bc1a-43a1-9498-371f04bbc7ed",
+    "question": "Mac bilgisayarımda Java’yı nasıl kaldırabilirim?",
+    "answer": "Terminal üzerinden aşağıdaki komutlar ile Java kaldırılabilir:\nsudo rm -fr /Library/Internet\\ Plug-Ins/JavaAppletPlugin.plugin\nsudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane\nsudo rm -fr ~/Library/Application Support/Oracle/Java",
+    "category": "Genel Bilgilendirme / Yazılım",
+    "created_at": "2026-03-13T15:11:23.468624",
+    "updated_at": null
+  },
+  {
+    "id": "3ee2af3a-ae63-4ee3-a20c-50307908b364",
+    "question": "Mac bilgisayarım çok eski olduğu için e-imza çalışmıyor olabilir mi?",
+    "answer": "Evet. Eski macOS sürümlerinde e-imza çalışmayabilir. İşletim sistemini güncellemeniz gerekir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:11:45.584204",
+    "updated_at": null
+  },
+  {
+    "id": "bd73b7c8-71ef-42d9-8113-f99bca6f1268",
+    "question": "Görüntülü toplantı sistemlerine bağlanamıyorum, sorun ne olabilir?",
+    "answer": "Güvenlik duvarı (firewall) ayarları bağlantıyı engelliyor olabilir.",
+    "category": "Genel Bilgilendirme",
+    "created_at": "2026-03-13T15:12:07.370293",
+    "updated_at": null
+  },
+  {
+    "id": "3e8c79d7-0bf9-451b-9c0e-db97c400439a",
+    "question": "Online toplantıda kameram çalışmıyor, ne yapmalıyım?",
+    "answer": "Kamera izinleri ve firewall ayarlarını kontrol etmeniz gerekir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:12:46.001408",
+    "updated_at": null
+  },
+  {
+    "id": "4d820b4c-9560-42b3-a070-35e414334424",
+    "question": "Online toplantıda mikrofonum çalışmıyor, nasıl çözebilirim?",
+    "answer": "Mikrofon izinlerini ve güvenlik duvarı ayarlarını kontrol etmeniz gerekir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:13:07.591492",
+    "updated_at": null
+  },
+  {
+    "id": "5662b7bf-e226-4065-ad20-13230c4c5cb8",
+    "question": "Kampüs internetine bağlanamıyorum, ne yapmam gerekiyor?",
+    "answer": "Bilgisayarınıza Check Point Identity Agent programını kurmanız gerekir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:13:39.132308",
+    "updated_at": null
+  },
+  {
+    "id": "df7d4ffa-4b71-4410-865e-c1dae74183a4",
+    "question": "Üniversite web sayfası başvurusu için hangi siteyi kullanmalıyım?",
+    "answer": "sayfa.basvuru.mu.edu.tr adresini kullanmanız gerekir.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:14:19.257103",
+    "updated_at": null
+  },
+  {
+    "id": "ea92ccbb-daf8-428f-a414-540264506a85",
+    "question": "Üniversite web sayfasında komisyonlar veya kurullar yanlış görünüyor, neden?",
+    "answer": "Web yönetim panelinde doğru bağlantı kullanılmamış olabilir. /tr/komisyonlar sayfası kontrol edilmelidir.",
+    "category": "Yönetmelik",
+    "created_at": "2026-03-13T15:14:44.075806",
+    "updated_at": null
+  },
+  {
+    "id": "2ecae3f1-7215-442b-a49a-14c283e9dd6f",
+    "question": "Üniversitede bir personelin telefon numarasını nasıl bulabilirim?",
+    "answer": "rehber.mu.edu.tr adresindeki üniversite rehberini kullanabilirsiniz.",
+    "category": "Akademik",
+    "created_at": "2026-03-13T15:15:04.884608",
+    "updated_at": null
+  },
+  {
+    "id": "363edfe8-16f6-44dc-9b87-17ed25e6a3b2",
+    "question": "Eski üniversite telefon rehberi neden çalışmıyor?",
+    "answer": "Sistem yenilenmiştir. Yeni rehber sistemi kullanılmalıdır.",
+    "category": "Genel Bilgilendirme ",
+    "created_at": "2026-03-13T15:15:27.338611",
+    "updated_at": null
+  },
+  {
+    "id": "a1cb7377-9ee6-46b3-9839-cf8dc9ddf2bd",
+    "question": "Mezuniyet belgemi nereden alabilirim?",
+    "answer": "mezunbelgeler.mu.edu.tr adresinden mezuniyet belgelerinizi alabilirsiniz.",
+    "category": "Akademik",
+    "created_at": "2026-03-13T15:15:44.791324",
+    "updated_at": null
+  },
+  {
+    "id": "eaff4c7c-b249-4c15-a2ab-d533beb1655f",
+    "question": "Üniversite web sayfasında bazı öğretim üyeleri neden görünmüyor?",
+    "answer": "Rol otomasyonunda kurumsal e-posta adresi girilmemiş olabilir.",
+    "category": "Yönetmelik",
+    "created_at": "2026-03-13T15:16:03.196033",
+    "updated_at": null
+  },
+  {
+    "id": "1d518327-c576-402e-a248-c69bde442e2a",
+    "question": "Yanlış ilişik kesme başvurusu yaptım, nasıl iptal edebilirim?",
+    "answer": "Öğrenci işleri ile iletişime geçerek başvurunun iptal edilmesini talep edebilirsiniz.",
+    "category": "Akademik",
+    "created_at": "2026-03-13T15:16:20.313339",
+    "updated_at": null
+  },
+  {
+    "id": "c213592b-e243-4d0e-a74a-ef15335381f1",
+    "question": "Kurum bilgisayarıma bir program/uygulama kurmak istiyorum ama \"Trellix\" antivirüs programı kurulumu engelliyor, ne yapabilirim?",
+    "answer": "Kurum bilgisayarlarındaki Trellix yazılımı lisanssız (crackli) veya şüpheli yazılımları otomatik engeller. Kurmak istediğiniz program eğitim/iş amaçlıysa ve ağ güvenliğini riske atmıyorsa, durumu anlatan bir mail atarak uzaktan kurulum izni verilmesini isteyebilirsiniz.",
+    "category": "sistem/güvenlik",
+    "created_at": "2026-03-13T15:20:13.990335",
+    "updated_at": null
+  },
+  {
+    "id": "419e62b8-38d0-4515-a2b3-048a281e81ba",
+    "question": "Ofisimdeki IP telefonun (Voice) ismini değiştirmek veya hattımı başka bir numaraya yönlendirmek için cihazdan ne yapmalıyım?",
+    "answer": "IP telefon süreçleri tamamen merkezden yönetildiği için cihaz üzerinden kendi başınıza değişiklik yapamazsınız. İsim değişikliği veya yönlendirme taleplerinizi doğrudan ögrenciis@mu.edu.tr(örnek) adresine mail atarak çok daha hızlı bir şekilde çözüme kavuşturabilirsiniz.",
+    "category": "sistem",
+    "created_at": "2026-03-13T15:21:51.141062",
+    "updated_at": null
+  },
+  {
+    "id": "15d87fb3-72cb-48bc-91bc-69fd6573119b",
+    "question": "Üniversite içinde başka bir birime/ofise geçerken veya kurumdan ayrılırken üzerimdeki zimmetli cihazlar (bilgisayar vb.) için ne yapmam gerekiyor?",
+    "answer": "Birim değiştirmeden veya kurumla ilişiğinizi kesmeden önce mutlaka Bilgi İşlem'e gelerek üzerinizdeki donanım/cihaz zimmetlerini düşürmeniz veya o cihazı kullanmaya devam edecek yeni personele resmi olarak transfer etmeniz zorunludur.",
+    "category": "teknik servis",
+    "created_at": "2026-03-13T15:22:38.321638",
+    "updated_at": null
+  },
+  {
+    "id": "03a58392-8416-4a28-b30f-3df5f4db3b50",
+    "question": "Ofisimdeki bilgisayarım çok yavaş çalışıyor veya çok eski, hızlandırmak veya yeni bir bilgisayar almak için ne yapmalıyım?",
+    "answer": "Yavaş çalışan cihazlar için Teknik Servis'e başvurabilirsiniz; cihazınız destekliyorsa SSD diski takviyesi yapılarak hızlandırılabilir. İyileştirilemeyecek cihazlar hurdaya ayrılır. Yeni bilgisayar talepleri ise doğrudan Bilgi İşlem'e \"üst yazı\" ile resmi olarak yapılmalı ve kurum bütçesi dahilinde değerlendirilmelidir.",
+    "category": "teknik servis",
+    "created_at": "2026-03-13T15:23:15.732331",
+    "updated_at": null
+  },
+  {
+    "id": "eb92e19b-8f78-4396-ad9d-4f2de7221074",
+    "question": "Bilgisayarıma yazıcı tanıtmak veya e-imza kurmak istiyorum, Bilgi İşlem'den birinin gelip kurması mı gerekiyor?",
+    "answer": "Hayır, beklemenize gerek yoktur. Bilgi İşlem web sayfamızda e-imza kurulumu ve kurumda sık kullanılan yazıcı modelleri için adım adım kurulum kılavuzları bulunmaktadır. Lütfen önce cihazınıza uygun sürücüyü (driver) indirip bu kılavuzlardaki adımları uygulayınız.",
+    "category": "teknik servis",
+    "created_at": "2026-03-13T15:25:15.724551",
+    "updated_at": null
+  },
+  {
+    "id": "8662a266-a1cf-4710-98e6-883549b97562",
+    "question": "Bilgisayarımda \"Disk Doldu\" (C/D diski) uyarısı alıyorum, dosyalarımı nereye yedeklemeliyim?",
+    "answer": "Şahsi veya iş verilerinizi kurum bilgisayarının yerel diskinde tutmamalısınız. Dosyalarınızı size tahsis edilen 100 GB kapasiteli \"OneDrive\" bulut alanına yedeklemelisiniz. Ancak buluta senkronizasyon yaparken diskte geçici yer kapladığı için tüm dosyaları tek seferde değil, %10'luk küçük parçalar halinde yüklemeniz tavsiye edilir.",
+    "category": "teknik servis",
+    "created_at": "2026-03-13T15:25:42.780958",
+    "updated_at": null
+  },
+  {
+    "id": "b55bdf2b-aaf5-43ca-a7f7-75d3e2bd9f82",
+    "question": "Birimimiz için yeni bir web sayfası açtırmak istiyorum, basvuru.mu.edu.tr adresinden mi yapacağım?",
+    "answer": "Hayır, yeni web sayfası açtırmak veya sayfa sorumlusunu değiştirmek için doğru adres sayfabasvuru.mu.edu.tr'dir. Buradan formu doldurup çıktısını imzalayarak üst yazıyla göndermelisiniz. (basvuru.mu.edu.tr sadece yetenek sınavları, formasyon ve İŞKUR başvuruları içindir).",
+    "category": "yazılım",
+    "created_at": "2026-03-13T15:26:08.275531",
+    "updated_at": null
+  },
+  {
+    "id": "b9440ab4-56c8-4968-8179-7b57830f7336",
+    "question": "Yüksek Şeref Belgemi veya Pedagojik Formasyon Sertifikamı almak için nereye başvurmalıyım?",
+    "answer": "Bu belgeler için fiziksel bir başvuruya gerek yoktur. Öğrencilerimiz kurumsal e-posta adresleri ve şifreleriyle mezunbelgeler.mu.edu.tr adresine giriş yaparak bu dijital belgeleri kolayca alabilirler.",
+    "category": "yazılım",
+    "created_at": "2026-03-13T15:29:12.705642",
+    "updated_at": null
+  },
+  {
+    "id": "8bd30482-26c1-4920-a00b-33895a276d2b",
+    "question": "Akademik web sayfasında hocalarımızın isimleri veya verdikleri dersler neden görünmüyor?",
+    "answer": "Bu sorunun kaynağı, Personel Bilgi Sistemi'nde (PBS) ilgili akademisyenin kurumsal iletişim (e-posta) bilgisinin eksik girilmesidir. Personel Daire Başkanlığı sistemi üzerinden MSKÜ e-posta adresi doğru alana girildiğinde, sistem bilgileri otomatik çekip hocayı sayfada gösterecektir.",
+    "category": "yazılım",
+    "created_at": "2026-03-13T15:29:41.678230",
+    "updated_at": null
+  },
+  {
+    "id": "8cedda3b-1409-4ba0-a829-b28a416a2de2",
+    "question": "Üniversite içerisinde uğradığım veya şahit olduğum bir taciz, saldırı veya ayrımcılık durumunu gizlilikle kime bildirebilirim?",
+    "answer": ": Bu tür hassas durumlar için CİTSAM devrededir. Öğrenci veya personellerimiz kurumsal e-postalarıyla citsam.mu.edu.tr adresine giriş yapıp, belgeleriyle doğrudan başvuruda bulunabilirler. İlgili kurul konuyu büyük bir gizlilik içerisinde değerlendirir.",
+    "category": "şikayet",
+    "created_at": "2026-03-13T15:30:27.856618",
+    "updated_at": null
+  },
+  {
+    "id": "14afd87b-6b43-4d3c-9752-c8d76c2f49ef",
+    "question": "Engelli bir öğrenciyim/personelim, kampüs içindeki erişilebilirlik (bina, yol, asansör) sorunlarını nereye iletmeliyim?",
+    "answer": "Kampüs içerisindeki fiziksel veya akademik erişilebilirlik sorunlarınızı doğrudan engelsizkampus.mu.edu.tr adresine kurumsal e-posta ve şifrenizle giriş yaparak yetkililere iletebilirsiniz.",
+    "category": "şikayet",
+    "created_at": "2026-03-13T15:30:47.440338",
+    "updated_at": null
+  },
+  {
+    "id": "8e338f08-239d-48e8-89a7-49eb9efcc735",
+    "question": "Ofisimde kablolu internete bağlıyım ama internete giremiyorum, sorun nedir?",
+    "answer": "Kablolu bağlantıda internete çıkabilmeniz için \"Check Point Identity Agent\" (Mor Şemsiye) programının bilgisayarınızda kurulu, açık ve kimlik girişinizin yapılmış olması şarttır. Ayrıca bilgisayarınızdaki ethernet kablosunun fiziksel olarak tam oturduğundan emin olunuz.",
+    "category": "ağ birimi",
+    "created_at": "2026-03-13T15:31:20.119052",
+    "updated_at": null
+  },
+  {
+    "id": "4c68669a-183b-4e1c-a387-aac3a2b8ea33",
+    "question": "Fakültemizde/Birimimizde genel bir internet kesintisi var, Bilgi İşlemi telefonla mı aramalıyım?",
+    "answer": "Kesintinin sadece sizin odanızda veya elektrik panosu kaynaklı (lokal) olmadığından eminseniz, cep telefonunuzun mobil verisini kullanarak btdestek.mu.edu.tr adresi üzerinden tam konumunuzu belirterek arıza kaydı oluşturmalısınız. (Bu sistem üniversite ağı dışından da erişime açıktır).",
+    "category": "ağ birimi",
+    "created_at": "2026-03-13T15:31:45.976251",
+    "updated_at": null
+  },
+  {
+    "id": "e8609600-f324-43fc-9da1-8439ef394d1d",
+    "question": "Eduroam ağına bağlanırken MSKÜ şifremi doğru girmeme rağmen \"IP alınamıyor\" hatası alıyorum, neden bağlanmıyor?",
+    "answer": "Bilgisayarınızın veya telefonunuzun Wi-Fi (IPv4) ayarlarında manuel olarak girilmiş bir DNS adresi (örn: 8.8.8.8) varsa Eduroam bağlantı vermez. Ağ ayarlarınızdan DNS seçeneğini \"Otomatik DNS sunucu adresini al\" olarak değiştirdiğinizde sorun çözülecektir.",
+    "category": "ağ birimi",
+    "created_at": "2026-03-13T15:32:11.187881",
+    "updated_at": null
+  },
+  {
+    "id": "e3f3eecc-6594-41d6-ba7e-1a007a715bf4",
+    "question": "Kampüs araç girişindeki Plaka Okuma Sistemi (HGS) bariyeri aracımı okumuyor, neden açılmıyor?",
+    "answer": ": Aracınızdaki sticker çok eski olabilir, yaptığınız yeni giriş başvurusu yetkili birim tarafından henüz onaylanmamış olabilir veya sistemde soyadı/e-posta değişikliğiniz senkronize olmamış olabilir. Durumunuzu kontrol etmek ve kayıt düzenlemek için trafik.mu.edu.tr adresini ziyaret ediniz.",
+    "category": "ağ birimi",
+    "created_at": "2026-03-13T15:32:37.464728",
+    "updated_at": null
+  }
+]
